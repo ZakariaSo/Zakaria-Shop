@@ -37,7 +37,7 @@
 
 ## 🎯 À propos
 
-ShopHub est une application mobile e-commerce complète développée avec **Expo** et **React Native**. Elle offre une expérience utilisateur fluide avec des animations soignées, une navigation intuitive et une gestion d'état performante grâce à **Zustand**.
+Zakaria Shop est une application mobile e-commerce complète développée avec **Expo** et **React Native**. Elle offre une expérience utilisateur fluide avec des animations soignées, une navigation intuitive et une gestion d'état performante grâce à **Zustand**.
 
 ### ✨ Points forts
 - 🚀 Navigation rapide avec **Expo Router**
@@ -148,7 +148,7 @@ npx expo install expo-splash-screen expo-linear-gradient expo-router
 ## 📁 Structure du projet
 
 ```
-shophub-ecommerce/
+Zakaria Shop-ecommerce/
 ├── app/                          # 📱 Écrans de l'application
 │   ├── _layout.tsx              # Layout principal + Splash Screen
 │   ├── index.tsx                # 🏠 Écran liste de produits
