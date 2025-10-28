@@ -1,4 +1,4 @@
-# 🛍️ ShopHub - Application E-commerce Mobile
+# 🛍️ Zakaria Shop - Application E-commerce Mobile
 
 <div align="center">
   
