@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mini-e-commerce",
-    "slug": "mini-e-commerce",
+    "name": "ZakariaShop",
+    "slug": "Your-Favorite-Web-E-commerce-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.zakariasoo.YourFavoriteWebEcommerceApp"
     },
     "web": {
       "output": "static",
@@ -43,6 +44,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ac0aabf1-6ec6-42da-8787-d5f4013d7fff"
+      }
     }
   }
 }
